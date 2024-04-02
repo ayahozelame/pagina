@@ -1,0 +1,36 @@
+ul {
+    list-style: none;
+    text-align: center;
+    margin-left: -35px;
+       
+}
+li {
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size:16px;
+}
+div {
+    margin: 30px;
+}
+a {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    
+}
+a:hover {
+    background-color: blue;
+    padding: 6px 11px;
+}
+li:hover {
+    background-color: #b6b5b5;
+    padding: 3px 6px;
+}
